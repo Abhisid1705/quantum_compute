@@ -1,5 +1,4 @@
-Great question!
-
+Quantum terms :
 The symbol |0⟩ (pronounced "ket zero") comes from Dirac notation, which is used in quantum mechanics to describe quantum states.
 
 ✅ Breaking Down the Symbol: |0⟩
@@ -47,5 +46,3 @@ Heads = |0⟩
 Tails = |1⟩
 
 A spinning coin = (1/√2)(|0⟩ + |1⟩) — it's both until you stop and check.
-
-Would you like a visual diagram to show how |0⟩ and |1⟩ look in vector form and how superposition transforms them?
